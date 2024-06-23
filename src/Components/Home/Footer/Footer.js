@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="row mt-5 mb-5">
                 <div className="col-md-4">
                     <img height="100" width="200" src={logo} alt="" />
-                    <p className="mt-3 text-secondary">1212 Mohakhali <br/> Dhaka, Bangladesh.</p>
+                    <p className="mt-3 text-secondary">Safait hossain, 1212 Mohakhali <br/> Dhaka, Bangladesh.</p>
                 </div>
                 <div className="col-md-2">
                     <ul className="text-uppercase font-weight-bold">Main Menu</ul>
